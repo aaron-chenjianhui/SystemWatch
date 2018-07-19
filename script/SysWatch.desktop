@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=System Watch
+Exec=gnome-terminal -x bash -c /home/midearobot/Program/WatchDIO/build/system_watch
+Icon=/home/midearobot/Program/WatchDIO/resource/QtDIO.ico
+Comment=hahaha
